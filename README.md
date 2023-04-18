@@ -1,2 +1,2 @@
 # CalculadoraIMC
-tendo apenas HTML e CSS faltando completar com o JS
+Completo, feito em HTML, CSS e JavaScript!
